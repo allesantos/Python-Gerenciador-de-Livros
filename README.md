@@ -4,7 +4,9 @@ Este pequeno projeto permite realizar cadastros de livros e também usuários. C
 
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Python-Gerenciador-de-Livros/00.png">
 
-<p align="center">Inserindo um novo usuário<p></p>
+
+
+<p>Inserindo um novo usuário<p></p>
 <img src = "https://github.com/allesantos/allesantos/blob/main/imagens/Python-Gerenciador-de-Livros/00d.png">
 
 
